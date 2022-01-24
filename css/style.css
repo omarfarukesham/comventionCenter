@@ -6,8 +6,17 @@ body{
 .textColor{
     color: #DB0B5F;
 }
+.Headtext{
+    border-bottom: 4px solid orange;
+}
 .pakageSection button{
-    
+    color: white;
+    font-size: 18px;
+    font-weight: 600;
+}
+.pakageSection button:hover{
+    color: black;
+    background: cyan;
 }
 .hotBtn{
     position: relative;
@@ -17,4 +26,7 @@ body{
     top:0;
     right: 0;
    
+}
+.btnPakage{
+    border-radius: 10%;
 }
