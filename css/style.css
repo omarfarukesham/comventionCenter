@@ -3,11 +3,16 @@ body{
     font-family: 'Roboto', sans-serif;
     font-family: 'Roboto Condensed', sans-serif;
 }
-.textColor{
-    color: #DB0B5F;
-}
+
+
+/* common utilities  */
 .Headtext{
     border-bottom: 4px solid orange;
+}
+
+/* offering pakage section css  */
+.pakageSection{
+    border-radius: 15px;
 }
 .pakageSection button{
     color: white;
@@ -31,6 +36,7 @@ body{
     border-radius: 10%;
 }
 
+/* couster feedback section here  */
 .feedBackCard{
     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 }
@@ -38,3 +44,6 @@ body{
     box-shadow: rgba(0, 0, 0, 0.02) 0px 1px 3px 0px, rgba(27, 31, 35, 0.15) 0px 0px 0px 1px;
     transition: 1s;
 }
+
+
+/* thanks for reading this code  */
