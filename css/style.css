@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&family=Roboto+Condensed:wght@400;700&display=swap');
+body{
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.textColor{
+    color: #DB0B5F;
+}
+.pakageSection button{
+    
+}
+.hotBtn{
+    position: relative;
+}
+.hotBtnChild{
+    position: absolute;
+    top:0;
+    right: 0;
+   
+}
