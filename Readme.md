@@ -1,45 +1,5 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@omarfarukesham 
-dev-nazmulislam
-/
-javascript-short-note
-Public
-Code
-Issues
-1
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
- 1 branch
- 0 tags
-Latest commit
-@dev-nazmulislam
-dev-nazmulislam link added
-ac10494
-on Mar 11
-Git stats
- 115 commits
-Files
-Type
-Name
-Latest commit message
-Commit time
-README.md
-link added
-3 months ago
-script.js
-link added
-3 months ago
-README.md
+
+
 JavaScript Tutorial
 Fundamental Concepts
 JavaScript Definition | Environment set up | What can JavaScript do? | Where to use JavaScript? | JavaScript output element | JavaScript Statements | Variable Definition & syntax. | JavaScript identifiers or Variable Name | Variable Data Types | Type Conversion | False Values | JavaScript Operators | Conditional Statements | Declarations | Loops and iteration | JavaScript Comment | Math Object | Date Object | String | Array | Object | Function
